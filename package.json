@@ -1,0 +1,29 @@
+{
+  "name": "backend_test_js",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keysim/backend_test_js.git"
+  },
+  "keywords": [
+    "test",
+    "wemaintain"
+  ],
+  "author": "Keysim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keysim/backend_test_js/issues"
+  },
+  "homepage": "https://github.com/keysim/backend_test_js#readme",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "google-distance-matrix": "^1.1.1"
+  }
+}
