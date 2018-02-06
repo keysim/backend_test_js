@@ -13,7 +13,7 @@ $ cd backend_test_js
 $ npm install
 $ npm start
 ```
-After that, you can open this url :
+After that, the API will wait your requests on your localhost, port 3000 :
 ```
 > localhost:3000
 ```
